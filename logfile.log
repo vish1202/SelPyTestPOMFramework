@@ -1,0 +1,50 @@
+2022-09-25 14:53:54,209 :INFO : test_verifysortAtoZ :Selecting Name (Z to A) in sort drop down
+2022-09-25 14:53:54,252 :INFO : test_verifysortAtoZ :Fetching sorted items from products page
+2022-09-25 14:53:54,252 :INFO : test_verifysortAtoZ :Fetching sorted items from products page
+2022-09-25 14:53:54,333 :INFO : test_verifysortAtoZ :Verifying the sorting of items
+2022-09-25 14:53:54,333 :INFO : test_verifysortAtoZ :Verifying the sorting of items
+2022-09-25 14:53:54,333 :INFO : test_verifysortAtoZ :Verifying the sorting of items
+2022-09-25 14:53:54,674 :INFO : test_verifypriceHtoL :Selecting Price (high to low) in sort drop down
+2022-09-25 14:53:54,749 :INFO : test_verifypriceHtoL :Fetching sorted items from  products page
+2022-09-25 14:53:54,749 :INFO : test_verifypriceHtoL :Fetching sorted items from  products page
+2022-09-25 14:53:54,803 :INFO : test_verifypriceHtoL :Verifying sorted items from products page
+2022-09-25 14:53:54,803 :INFO : test_verifypriceHtoL :Verifying sorted items from products page
+2022-09-25 14:53:54,803 :INFO : test_verifypriceHtoL :Verifying sorted items from products page
+2022-09-25 14:53:55,031 :INFO : test_verifyaddtocart_count :Adding items to cart
+2022-09-25 14:53:55,139 :INFO : test_verifyaddtocart_count :Verifying cart items count
+2022-09-25 14:53:55,139 :INFO : test_verifyaddtocart_count :Verifying cart items count
+2022-09-25 14:54:09,343 :INFO : test_verifyaddtocart_items :Adding items to cart
+2022-09-25 14:54:09,545 :INFO : test_verifyaddtocart_items :Fetching cart items displayed
+2022-09-25 14:54:09,545 :INFO : test_verifyaddtocart_items :Fetching cart items displayed
+2022-09-25 14:54:09,562 :INFO : test_verifyaddtocart_items :Adding cart items to list
+2022-09-25 14:54:09,562 :INFO : test_verifyaddtocart_items :Adding cart items to list
+2022-09-25 14:54:09,562 :INFO : test_verifyaddtocart_items :Adding cart items to list
+2022-09-25 14:54:09,583 :INFO : test_verifyaddtocart_items :verifying items from cart
+2022-09-25 14:54:09,583 :INFO : test_verifyaddtocart_items :verifying items from cart
+2022-09-25 14:54:09,583 :INFO : test_verifyaddtocart_items :verifying items from cart
+2022-09-25 14:54:09,583 :INFO : test_verifyaddtocart_items :verifying items from cart
+2022-09-25 14:56:10,353 :INFO : test_verifysortAtoZ :Selecting Name (Z to A) in sort drop down
+2022-09-25 14:56:10,515 :INFO : test_verifysortAtoZ :Fetching sorted items from products page
+2022-09-25 14:56:10,515 :INFO : test_verifysortAtoZ :Fetching sorted items from products page
+2022-09-25 14:56:10,610 :INFO : test_verifysortAtoZ :Verifying the sorting of items
+2022-09-25 14:56:10,610 :INFO : test_verifysortAtoZ :Verifying the sorting of items
+2022-09-25 14:56:10,610 :INFO : test_verifysortAtoZ :Verifying the sorting of items
+2022-09-25 14:56:10,961 :INFO : test_verifypriceHtoL :Selecting Price (high to low) in sort drop down
+2022-09-25 14:56:11,017 :INFO : test_verifypriceHtoL :Fetching sorted items from  products page
+2022-09-25 14:56:11,017 :INFO : test_verifypriceHtoL :Fetching sorted items from  products page
+2022-09-25 14:56:11,072 :INFO : test_verifypriceHtoL :Verifying sorted items from products page
+2022-09-25 14:56:11,072 :INFO : test_verifypriceHtoL :Verifying sorted items from products page
+2022-09-25 14:56:11,072 :INFO : test_verifypriceHtoL :Verifying sorted items from products page
+2022-09-25 14:56:11,299 :INFO : test_verifyaddtocart_count :Adding items to cart
+2022-09-25 14:56:11,397 :INFO : test_verifyaddtocart_count :Verifying cart items count
+2022-09-25 14:56:11,397 :INFO : test_verifyaddtocart_count :Verifying cart items count
+2022-09-25 14:56:23,732 :INFO : test_verifyaddtocart_items :Adding items to cart
+2022-09-25 14:56:23,906 :INFO : test_verifyaddtocart_items :Fetching cart items displayed
+2022-09-25 14:56:23,906 :INFO : test_verifyaddtocart_items :Fetching cart items displayed
+2022-09-25 14:56:23,920 :INFO : test_verifyaddtocart_items :Adding cart items to list
+2022-09-25 14:56:23,920 :INFO : test_verifyaddtocart_items :Adding cart items to list
+2022-09-25 14:56:23,920 :INFO : test_verifyaddtocart_items :Adding cart items to list
+2022-09-25 14:56:23,938 :INFO : test_verifyaddtocart_items :verifying items from cart
+2022-09-25 14:56:23,938 :INFO : test_verifyaddtocart_items :verifying items from cart
+2022-09-25 14:56:23,938 :INFO : test_verifyaddtocart_items :verifying items from cart
+2022-09-25 14:56:23,938 :INFO : test_verifyaddtocart_items :verifying items from cart

@@ -1,0 +1,14 @@
+2022-09-25 14:44:25,537 :INFO : test_verifyaddtocart_items :verifying items from cart
+2022-09-25 14:44:25,537 :INFO : test_verifyaddtocart_items :verifying items from cart
+2022-09-25 14:51:39,483 :INFO : test_verifysortAtoZ :Selecting Name (Z to A) in sort drop down
+2022-09-25 14:51:39,563 :INFO : test_verifysortAtoZ :Fetching sorted items from products page
+2022-09-25 14:51:39,563 :INFO : test_verifysortAtoZ :Fetching sorted items from products page
+2022-09-25 14:51:39,629 :INFO : test_verifysortAtoZ :Verifying the sorting of items
+2022-09-25 14:51:39,629 :INFO : test_verifysortAtoZ :Verifying the sorting of items
+2022-09-25 14:51:39,629 :INFO : test_verifysortAtoZ :Verifying the sorting of items
+2022-09-25 14:52:06,663 :INFO : test_verifypriceHtoL :Selecting Price (high to low) in sort drop down
+2022-09-25 14:52:06,777 :INFO : test_verifypriceHtoL :Fetching sorted items from  products page
+2022-09-25 14:52:06,777 :INFO : test_verifypriceHtoL :Fetching sorted items from  products page
+2022-09-25 14:52:06,833 :INFO : test_verifypriceHtoL :Verifying sorted items from products page
+2022-09-25 14:52:06,833 :INFO : test_verifypriceHtoL :Verifying sorted items from products page
+2022-09-25 14:52:06,833 :INFO : test_verifypriceHtoL :Verifying sorted items from products page
